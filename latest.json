@@ -1,8 +1,8 @@
 {
-  "version": "0.0.0",
-  "minimumVersion": "0.0.0",
-  "releaseDate": "2026-02-28",
-  "demoUrl": "",
-  "productionUrl": "",
-  "releaseNotes": "Initial placeholder"
+  "minimumVersion": "1.0.0",
+  "version": "1.6.0",
+  "releaseDate": "2026-03-31",
+  "demoUrl": "https://github.com/radii-x-inspections/releases/releases/download/v1.6.0/Radii-x-Inspections-1.6.0-Demo-Setup.exe",
+  "releaseNotes": "- release: v1.6.0 (a833763)\\n- remove Google Drive integration (dead code) (7740716)\\n- installer: remove old NOVA installation path on update (f6ce10a)\\n- Update Supabase endpoint to new production (pmdtgaevvhbjlwtpynzo) (fef4857)\\n",
+  "productionUrl": "https://github.com/radii-x-inspections/releases/releases/download/v1.6.0/Radii-x-Inspections-1.6.0-Setup.exe"
 }
