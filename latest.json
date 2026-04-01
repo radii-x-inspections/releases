@@ -4,5 +4,5 @@
   "releaseDate": "2026-03-31",
   "demoUrl": "https://github.com/radii-x-inspections/releases/releases/download/v1.6.0/Radii-x-Inspections-1.6.0-Demo-Setup.exe",
   "productionUrl": "https://github.com/radii-x-inspections/releases/releases/download/v1.6.0/Radii-x-Inspections-1.6.0-Setup.exe",
-  "releaseNotes": "New infrastructure and improved reliability.\n\nWhat's new:\n- Faster and more reliable image uploads\n- Improved connection stability\n- Auto-launch after installation\n- General bug fixes"
+  "releaseNotes": "- Remove Google Drive integration\n- Remove old NOVA installation path on update\n- Autosave images after every action\n- UI polish \u2014 undo/redo tooltips, capitalization, skip upload dialog\n- Searchable Client/Technician ComboBox with auto-create\n- Text annotation crash, polarity toggle, measure/arrow deselect\n- Memory leaks in image processing\n- Bugs, error handling, and infra cleanup\n- Text annotation fixes + data table cleanup"
 }
