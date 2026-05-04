@@ -1,8 +1,8 @@
 {
-  "releaseDate": "2026-04-21",
-  "demoUrl": "https://github.com/radii-x-inspections/releases/releases/download/v1.6.1/Radii-x-Inspections-1.6.1-Demo-Setup.exe",
-  "version": "1.6.1",
-  "releaseNotes": "- Re-register Ruler/Calibrate command handlers on tab load so they stay active after tab switch\\n- Pin Job tab, auto-scroll to selected tab, match tab height to toolbar buttons\\n- Add Ruler overlay — 4 center rulers + perimeter, 1/4\\\" ticks\\n- Redesign tab layout — fixed width, horizontal scroll, pinned job tab\\n- Apply contrast, rotation, flip and polarity to exported images\\n- Sort client list by created date, newest first\\n- UI improvements — search by client only, default image name, remove save button, auto-finalize drawing at edge\\n- Redesign ProjectList UI\\n- Retry/cancel dialog when dependency download fails (no internet)\\n- Download dependencies from R2, graceful fallback if offline\\n- Auto-detect and install .NET 8 runtime, warn if VIVIX SDK missing\\n- Deselect arrow/measure annotations after drawing\\n- UI: redesign update dialog — clean layout, no scrollbar\\n- Auto-launch app after install + clean release notes\\n",
+  "demoUrl": "https://github.com/radii-x-inspections/releases/releases/download/v1.6.2/Radii-x-Inspections-1.6.2-Demo-Setup.exe",
+  "releaseDate": "2026-05-04",
   "minimumVersion": "1.0.0",
-  "productionUrl": "https://github.com/radii-x-inspections/releases/releases/download/v1.6.1/Radii-x-Inspections-1.6.1-Setup.exe"
+  "releaseNotes": "- Default to 'Image' with '(new)/(newN)' suffix on collision\\n",
+  "productionUrl": "https://github.com/radii-x-inspections/releases/releases/download/v1.6.2/Radii-x-Inspections-1.6.2-Setup.exe",
+  "version": "1.6.2"
 }
