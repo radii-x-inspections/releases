@@ -1,8 +1,8 @@
 {
-  "demoUrl": "https://github.com/radii-x-inspections/releases/releases/download/v1.6.2/Radii-x-Inspections-1.6.2-Demo-Setup.exe",
-  "releaseDate": "2026-05-04",
-  "minimumVersion": "1.0.0",
-  "releaseNotes": "- Default to 'Image' with '(new)/(newN)' suffix on collision\\n",
-  "productionUrl": "https://github.com/radii-x-inspections/releases/releases/download/v1.6.2/Radii-x-Inspections-1.6.2-Setup.exe",
-  "version": "1.6.2"
+  "demoUrl": "https://github.com/radii-x-inspections/releases/releases/download/v1.7.0/Radii-x-Inspections-1.7.0-Demo-Setup.exe",
+  "releaseDate": "2026-05-20",
+  "version": "1.7.0",
+  "releaseNotes": "- PM feedback round for 1.7\\n- Move Clean Image from File menu to toolbar, also clear ruler\\n- Persist to DB, undo/redo support, include in export and report\\n- Shrink hit-area and replace toolbar icon\\n- Move to toolbar, selectable + draggable center handle, delete to remove\\n- View zoom (mouse wheel) + drag-pan when nothing selected\\n- PM feedback round 3 — canvas size/position now matches image view\\n- PM feedback round 2 — clip, titles, toolbar parity, canvas aspect+position\\n- PM feedback round 1 — tab refactor + visuals + output dim\\n- Image stitching — drag/scale/layer canvas to compose multiple X-ray images into one\\n",
+  "productionUrl": "https://github.com/radii-x-inspections/releases/releases/download/v1.7.0/Radii-x-Inspections-1.7.0-Setup.exe",
+  "minimumVersion": "1.0.0"
 }
