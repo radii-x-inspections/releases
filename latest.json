@@ -1,8 +1,8 @@
 {
-  "demoUrl": "https://github.com/radii-x-inspections/releases/releases/download/v1.7.0/Radii-x-Inspections-1.7.0-Demo-Setup.exe",
-  "releaseDate": "2026-05-20",
-  "version": "1.7.0",
-  "releaseNotes": "- PM feedback round for 1.7\\n- Move Clean Image from File menu to toolbar, also clear ruler\\n- Persist to DB, undo/redo support, include in export and report\\n- Shrink hit-area and replace toolbar icon\\n- Move to toolbar, selectable + draggable center handle, delete to remove\\n- View zoom (mouse wheel) + drag-pan when nothing selected\\n- PM feedback round 3 — canvas size/position now matches image view\\n- PM feedback round 2 — clip, titles, toolbar parity, canvas aspect+position\\n- PM feedback round 1 — tab refactor + visuals + output dim\\n- Image stitching — drag/scale/layer canvas to compose multiple X-ray images into one\\n",
-  "productionUrl": "https://github.com/radii-x-inspections/releases/releases/download/v1.7.0/Radii-x-Inspections-1.7.0-Setup.exe",
-  "minimumVersion": "1.0.0"
+  "demoUrl": "https://github.com/radii-x-inspections/releases/releases/download/v1.8.0/Radii-x-Inspections-1.8.0-Demo-Setup.exe",
+  "version": "1.8.0",
+  "productionUrl": "https://github.com/radii-x-inspections/releases/releases/download/v1.8.0/Radii-x-Inspections-1.8.0-Setup.exe",
+  "minimumVersion": "1.0.0",
+  "releaseDate": "2026-06-18",
+  "releaseNotes": "- Logos import: fix orientation, add Create spinner, parallelize processing\\n- Make Site required on New Job with same validation as Technician\\n- Apply panel filter and orientation to Logos imports\\n- Add Import from Logos to new project flow\\n- Data Room delete-with-reassign + job picker fixes\\n- Data Room + job picker UX fixes (PM feedback)\\n- Add Data Room (Companies/Sites/Contacts/Technicians) and normalize Project to Site\\n- Show AR Preview controls and spinner immediately on toggle\\n- Security: System.Drawing.Common CVE pin, trusted-config licensing, NuGet audit\\n- Stitching: per-image opacity slider with Auto (80%) / Reset (100%)\\n- Tech debt cleanup + AR camera spinner UX\\n- Stitching: remove canvas frame, fit tight bbox of placed images into x-ray dim\\n- Ar-preview: remove red bracket corners from panel housing\\n- Round 5 — center camera frame, full-width dotted bg, 1in border spacing\\n- Round 4 — top-right exposure, layout centering, camera spinner\\n- Round 3 — landscape orientation, top-left exposure, UI polish\\n- POC for field test\\n"
 }
