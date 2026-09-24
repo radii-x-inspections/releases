@@ -1,8 +1,8 @@
 {
+  "version": "2.1.0",
+  "productionUrl": "https://github.com/radii-x-inspections/releases/releases/download/v2.1.0/Radii-x-Inspections-2.1.0-Setup.exe",
+  "demoUrl": "https://github.com/radii-x-inspections/releases/releases/download/v2.1.0/Radii-x-Inspections-2.1.0-Demo-Setup.exe",
+  "releaseNotes": "- Version 2.1.0\\n- The Rayence test waits for the shot to end before it checks the statuses\\n- The ruler in an export reads like the ruler in the app\\n- A Rayence picture lies the way Logos shows it\\n- The Rayence panel waits for the image and every shot gets its own session\\n- One session for the Rayence panel\\n- The card keeps its width without the Stop button\\n- Stop is hidden where it cannot stop\\n- The panel error goes back to the log\\n- The log goes back to Information\\n- The panel status keeps checking, and an error is shown\\n",
   "minimumVersion": "1.0.0",
-  "releaseDate": "2026-09-16",
-  "releaseNotes": "- Version 2.0.2\\n",
-  "productionUrl": "https://github.com/radii-x-inspections/releases/releases/download/v2.0.2/Radii-x-Inspections-2.0.2-Setup.exe",
-  "demoUrl": "https://github.com/radii-x-inspections/releases/releases/download/v2.0.2/Radii-x-Inspections-2.0.2-Demo-Setup.exe",
-  "version": "2.0.2"
+  "releaseDate": "2026-09-24"
 }
