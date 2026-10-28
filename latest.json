@@ -1,8 +1,8 @@
 {
+  "version": "2.2.0",
   "minimumVersion": "1.0.0",
-  "demoUrl": "https://github.com/radii-x-inspections/releases/releases/download/v2.1.5/Radii-x-Inspections-2.1.5-Demo-Setup.exe",
-  "version": "2.1.5",
-  "releaseDate": "2026-10-12",
-  "releaseNotes": "- Version 2.1.5\\n- Every captured image keeps how many seconds it was exposed\\n- Work order is the only thing a new job needs, and the web decides the rest\\n- New Job fills itself from a work order number\\n",
-  "productionUrl": "https://github.com/radii-x-inspections/releases/releases/download/v2.1.5/Radii-x-Inspections-2.1.5-Setup.exe"
+  "releaseNotes": "- Version 2.2.0\\n- Name the VR zip after the work order, the company and the address\\n- Send to VR: the job goes over as one zip\\n- Ask the WPD manager for a device name without corrupting memory\\n- Hide the archived images on the headset with a .nomedia file\\n- Send images with their annotations and clear the headset silently\\n- Empty the headset folder without asking, and keep the image names\\n- Send to VR over ordinary file transfer, no developer mode\\n- Send a job's images to a Meta Quest 3 headset\\n- Calibration follows the panel's real state, with import, auto-backup and a test shot\\n- Vivix calibration sets are kept per panel, checked and logged\\n",
+  "releaseDate": "2026-10-28",
+  "demoUrl": "https://github.com/radii-x-inspections/releases/releases/download/v2.2.0/Radii-x-Inspections-2.2.0-Demo-Setup.exe",
+  "productionUrl": "https://github.com/radii-x-inspections/releases/releases/download/v2.2.0/Radii-x-Inspections-2.2.0-Setup.exe"
 }
