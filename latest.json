@@ -1,8 +1,8 @@
 {
-  "version": "2.2.1",
-  "demoUrl": "https://github.com/radii-x-inspections/releases/releases/download/v2.2.1/Radii-x-Inspections-2.2.1-Demo-Setup.exe",
+  "productionUrl": "https://github.com/radii-x-inspections/releases/releases/download/v2.2.2/Radii-x-Inspections-2.2.2-Setup.exe",
   "minimumVersion": "1.0.0",
-  "releaseDate": "2026-11-02",
-  "productionUrl": "https://github.com/radii-x-inspections/releases/releases/download/v2.2.1/Radii-x-Inspections-2.2.1-Setup.exe",
-  "releaseNotes": "- An annotation keeps its size relative to the image it is drawn on\\n- An annotation on an exported image comes through whole\\n- Leave the headset folder alone, and stop waiting for a name\\n"
+  "releaseDate": "2026-11-08",
+  "demoUrl": "https://github.com/radii-x-inspections/releases/releases/download/v2.2.2/Radii-x-Inspections-2.2.2-Demo-Setup.exe",
+  "releaseNotes": "- The panel readout only reads, it never sets anything on the panel\\n- Send to VR: Try again on a failed transfer, and the earlier job moves into Archive\\n- The panel readout tries 2x2 itself when the panel will not list its modes, and checks the panel is back at 1x1\\n- The panel readout says what the panel answered, not only what it gave\\n- An annotation keeps its size relative to the image it is drawn on\\n- An annotation on an exported image comes through whole\\n- Read what the panel can actually do, instead of assuming it\\n- Leave the headset folder alone, and stop waiting for a name\\n",
+  "version": "2.2.2"
 }
